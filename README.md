@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Vinícius De Moraes 👋
 
 - 🌱 Atualmente estou estudando HTML, CSS e javascript quase partindo pro react
-- 🤔 Estou buscando um estágio na área
+- 🙌 Estou buscando um estágio na área
+-  ✔ Estou cursando Engenharia da Computação
 
  <div>
   <a href="https://github.com/viniciusdemoraess">
