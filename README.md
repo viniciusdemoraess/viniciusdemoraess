@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícius De Moraes 👋
 
-- 🌱 Atualmente estou estudando HTML, CSS e javascript quase partindo pro react
-- 🙌 Estou buscando um estágio na área
+- 🌱 Atualmente estou estudando Angular e Spring.
+- 💻 Trabalho como estagiário em Desenvolvimento de Software, utilizando Angular e Spring.
 -  ✔ Estou cursando Engenharia da Computação
 
  <div>
@@ -13,7 +13,8 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vini-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Vini-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
  <img align="right" alt="Vini-Icon" height="180" width="180" src="https://cdn.discordapp.com/attachments/503003320533647380/888058802644070510/Webp.net-gifmaker.gif">
   
 </div>
