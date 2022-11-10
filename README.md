@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinícius De Moraes 👋
 
 - 🌱 Atualmente estou estudando Angular | Spring e Flutter.
-- 💻 Trabalho como estagiário em Desenvolvimento de Software, utilizando Angular | Spring e Flutter.
+- 💻 Estou atuando no projeto da Fabrica de Software do IFMT Campus Cuiabá, utilizando Angular | Spring.
 -  ✔ Estou cursando Engenharia da Computação e Viciado em assistir os cursos da Alura :rofl:
 
  <div>
