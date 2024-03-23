@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinícius De Moraes 👋
 
- <img height="180em"  src="https://github.com/viniciusdemoraess.png" />
+ <img height="150em"  src="https://github.com/viniciusdemoraess.png" />
 
 - 🌱 Atualmente estou estudando Angular | Spring Boot e React.
 - 💻 Trabalho como Software Developer Full Stack  com Angular e Spring Boot.
