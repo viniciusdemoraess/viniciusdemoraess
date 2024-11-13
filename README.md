@@ -1,8 +1,9 @@
-### Olá! Eu sou o Vinícius De Moraes 👋
+### Hello! I'm Vinicius De Moraes 👋
 
-- 🌱 Atualmente estou estudando Angular | Spring Boot e React.
-- 💻 Trabalho como Software Developer Full Stack  com Angular e Spring Boot.
--  ✔ Estou cursando Engenharia da Computação e sou Viciado em Aprender Coisas Novas :rofl:
+- 🌱 Eternal learner of Angular, Spring Boot, and React.
+- 💻 I work as a Full Stack Software Developer with Angular and Spring Boot.
+- 🤓 I'm Addicted to Learning New Things
+- 🏅 AWS Cloud Practitioner Certificate
 
  <div>
   <a href="https://github.com/viniciusdemoraess">
