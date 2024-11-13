@@ -1,7 +1,7 @@
 ### Hello! I'm Vinicius De Moraes 👋
 
 - 🌱 Eternal learner of Angular, Spring Boot, and React.
-- 💻 I work as a Full Stack Software Developer with Angular and Spring Boot.
+- 💻 I work as a Full Stack Software Developer with React and Spring Boot.
 - 🤓 I'm Addicted to Learning New Things
 - 🏅 AWS Cloud Practitioner Certificate
 
