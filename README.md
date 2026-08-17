@@ -3,7 +3,7 @@
 - 🌱 Eternal learner of Angular, Spring Boot, and React.
 - 💻 I work as a Full Stack Software Developer with React and Spring Boot.
 - 🤓 I'm Addicted to Learning New Things
-- 🏅 AWS Cloud Practitioner Certificate
+- 🏅 AWS Associate Developer
 
  <div>
   <a href="https://github.com/viniciusdemoraess">
